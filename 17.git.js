@@ -15,4 +15,8 @@
 // git add <file_path>
 // git commit -m "commit_message"
 
+//* branch
+// git branch  //? list all available branches
+// git branch <branch_name> //? create new local branch
+// git switch <branch_name>
 //! github
