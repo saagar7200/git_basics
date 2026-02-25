@@ -52,7 +52,7 @@ const hari = new User("hari", "ram@gmail.com", "hari123");
 // console.log(ram);
 // console.log(ram.name);
 console.log(ram.getPassword()); //ram
-console.log(hari.getPassword()); // hari
+// console.log(hari.getPassword()); // hari
 // console.log(ram.#password); //
 
 // class Student -> name email password , roll, phone , faculty
