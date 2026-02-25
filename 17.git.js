@@ -6,6 +6,7 @@
 //  git config --global --list   //? list git global config
 // git config --global user.name "user_name" //? set global user name
 // git config --global user.email "user_email" //? set global user email
+// git config --global init.defaultbranch "main" //? set global user email
 
 // wd => staging area  => local repo
 
@@ -20,5 +21,7 @@
 // git branch <branch_name> //? create new local branch
 // git switch <branch_name>
 // git merge <branch_name>
-// changes from main
+// git checkout <branch_name> //? switch between branch
+// git checkout -b <branch_name>
+
 //! github
