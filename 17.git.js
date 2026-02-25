@@ -15,4 +15,5 @@
 // git add <file_path>
 // git commit -m "commit_message"
 
+// git merge <branch_name>
 //! github
