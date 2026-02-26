@@ -40,3 +40,15 @@
 
 // PR => pull request
 // MR ->
+
+//! git rebase
+// main -> a -> b -> c -> f -> g
+// A                c -> d -> e
+// A  after rebase            f'-> g' -> d -> e
+// git rebase main
+
+//! git cherry-pick
+// main -> a -> b -> c ->
+// main -> a -> b -> c ->e'
+// A                c -> d -> e -> f
+// git cherry-pick <commit_id>
