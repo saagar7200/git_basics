@@ -88,16 +88,16 @@ console.log(m)
 
 // vaiables
 // let const var
-let x;
-x = 74
-// let x = 56
+// let x;
+// x = 74
+// // let x = 56
 
-var y ;
- y = 57
+// var y ;
+//  y = 57
 
- var y = 465
+//  var y = 465
 
- const z = 56;
+//  const z = 56;
 //  z = 8
 // const z = 56
 
