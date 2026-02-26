@@ -25,3 +25,18 @@
 // git checkout -b <branch_name>
 
 //! github
+// git remote add origin <origin_repo_url>
+// git remote -v
+// git remote remove origin
+
+// git push origin <branch_name>
+// git fetch origin  // origin/main
+// git pull origin <branch_name> => fetch + merge
+
+// git diff <branch_a> <branch_b>
+
+// git log
+// git log <branch_a>..<branch_b>
+
+// PR => pull request
+// MR ->
