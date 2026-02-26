@@ -22,21 +22,21 @@ let b ='hello'
 // let b;
 
 // let b
-b = 87
-console.log(b)
+// b = 87
+// console.log(b)
 
-b ='jhd'
-console.log(b)
+// b ='jhd'
+// console.log(b)
 
-const c =56
-// c = 67
-console.log(c)
+// const c =56
+// // c = 67
+// console.log(c)
 
-const d =56
-let e;
+// const d =56
+// let e;
 
-// let x;
-e =56
+// // let x;
+// e =56
 
 // const c = ''
 
