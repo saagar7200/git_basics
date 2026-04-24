@@ -13,3 +13,9 @@
 //? git add <file_path>  => wd -> SA
 //? git add .  => all changes -> SA
 //? git commit -m "<commit message>"  => SA  -> local branch/repo
+
+//! branches
+
+//? git branch  => list all local branches
+//? git branch <branch_name>  => create new branch
+//? git switch <branch_name>
