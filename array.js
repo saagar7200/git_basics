@@ -6,7 +6,7 @@ let arr = new Array(1, 2, 3, 4);
 // console.log(arr);
 //* reading element
 let first = numbers[0];
-console.log(first);
+// console.log(first);
 // console.log(numbers[3]);
 // numbers[2] = 23;
 
