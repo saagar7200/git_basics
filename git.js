@@ -13,3 +13,5 @@
 //? git add <file_path>  => wd -> SA
 //? git add .  => all changes -> SA
 //? git commit -m "<commit message>"  => SA  -> local branch/repo
+
+// git merge <branch_name>
