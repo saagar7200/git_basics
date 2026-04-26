@@ -1,5 +1,9 @@
 function registerUser() {
   console.log("user account created");
+  console.log("user account created");
+  console.log("user account created");
+  console.log("user account created");
+  console.log("user account created");
   return {
     _id: 1,
     userName: "JOHN123",
