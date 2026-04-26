@@ -32,3 +32,8 @@
 
 //? git push origin <branch_name>
 //? git pull origin <branch_name>
+
+//! Delete branch
+//? git branch -d <branch_name>
+
+//? git clone <git_remote_repo_link> -> copy github repo to local
