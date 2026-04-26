@@ -23,3 +23,9 @@
 //? git checkout -b <branch_name>
 
 //? git merge <branch_name>
+// main => git merge feature/login
+
+//* github
+//? git remote add origin <github_repo_url>
+//? git remote -v
+//? git remote remove origin
