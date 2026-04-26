@@ -7,7 +7,7 @@
 
 //? git init   => initialize empty git repo. at folder
 
-//! WD  => Staging Area => local repo commit
+//! WD  => Staging Area => local repo commit  => remote repo (github)
 
 //? git status
 //? git add <file_path>  => wd -> SA
@@ -29,3 +29,5 @@
 //? git remote add origin <github_repo_url>
 //? git remote -v
 //? git remote remove origin
+
+//? git push origin <branch_name>
